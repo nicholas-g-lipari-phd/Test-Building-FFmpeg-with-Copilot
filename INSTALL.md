@@ -1,5 +1,9 @@
 ## Installing FFmpeg
 
+**For Windows users building with MSVC/Visual Studio Build Tools:** Please refer to [BUILD_WINDOWS_MSVC.md](BUILD_WINDOWS_MSVC.md) for comprehensive Windows-specific instructions.
+
+**For Unix-like systems (Linux, macOS, MSYS2/MinGW):**
+
 0. If you like to include source plugins, merge them before configure
 for example run tools/merge-all-source-plugins
 

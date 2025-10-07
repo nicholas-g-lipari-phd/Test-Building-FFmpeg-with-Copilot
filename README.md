@@ -30,6 +30,13 @@ The offline documentation is available in the **doc/** directory.
 The online documentation is available in the main [website](https://ffmpeg.org)
 and in the [wiki](https://trac.ffmpeg.org).
 
+### Building
+
+For general installation instructions, see [INSTALL.md](INSTALL.md).
+
+**For building on Windows with MSVC and Visual Studio Build Tools**, see the comprehensive guide:
+* [BUILD_WINDOWS_MSVC.md](BUILD_WINDOWS_MSVC.md) - Detailed instructions for building FFmpeg on Windows with MSVC compiler
+
 ### Examples
 
 Coding examples are available in the **doc/examples** directory.
